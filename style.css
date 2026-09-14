@@ -227,6 +227,10 @@
        width: 100%;
    }
 
+      .about {
+       padding: 50px 20px;
+   }
+
     .about .peoples .people {
        width: 100%;
        margin-bottom: 20px;
